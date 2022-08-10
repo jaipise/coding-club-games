@@ -1,0 +1,19 @@
+/*from https://codepen.io/priosoft/pen/dMryaY?__cf_chl_jschl_tk__=ded2356fc5f4ca9a5426777f48f4bd43df52de93-1605967914-0-AbNwDvHRWYXW9HElb0yclBlrxX2Sn1QRFa3KXvjPI4WPsXqBGbAg_uaykVMviaI63WxiuiNl6onbPGTzbbhf2La6Ka3rBKRzPDPAUqor5SG60VfABC9789NgONDxC9Ozfv77B7wsUS63h-dlAIeLfmyESPsjSPIszAfJ3Rcz8MiHienI1D2Bri4vqVPysnO6qmDGWbayRZWzP-FJt15vlDbUN1_JAF_X2gaU1O2GJiDvRh6iHzq8Dp6orPYpOhBYgc-MveJE1BbHcO4aBrtcy-gZsSt0x7tXcCNAYIdYreGM9bPv67F38rzz4FIw0eqEV-j3pwrmU4fYFIw5oW01OLWfjnrA2MGLvohwU-T0cIkup1WS2QLSsJrxI_k3FiT6ClFUlNoPNwi-PHhZ5Dp3CPA*/
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background: #1D3876;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: center;
+  color: lightgray;
+}
+
+p{
+  font-size: 10px;
+}
+h4{
+	font-size: 12px;
+	color: pink;
+}
